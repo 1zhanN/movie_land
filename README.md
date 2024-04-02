@@ -2,8 +2,8 @@
 
 Welcome to Movie Land, a React project that fetches movie data from an API and displays it to users. With Movie Land, you can explore a vast collection of movies, search for specific titles, and discover new favorites.
 
-![ScreenShots](images\Screenshot.png)
-![ScreenShots](images\Screenshot1.png)
+![ScreenShots](images/Screenshot.png)
+![ScreenShots](images/Screenshot1.png)
 ## Features
 
 - **Movie Data**: Fetches movie data from an API and displays it on the website.
